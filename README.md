@@ -61,7 +61,7 @@ MQ7_PIN    -> GPIO35 (CO Sensor)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/air-quality-monitor.git
+   git clone https://github.com/esmail-sarhadi/air-quality-monitor.git
    ```
 
 2. Install required Arduino libraries through the Arduino IDE Library Manager
@@ -121,7 +121,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Author ✍️
 
 **Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [@esmail-sarhadi](https://github.com/esmail-sarhadi)
 
 ## License 📄
 
