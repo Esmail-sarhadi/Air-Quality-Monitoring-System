@@ -46,10 +46,10 @@ void handleRoot() {
         file.close();
     } else {
         server.send(404, "text/plain", "File not found");
-    }
+    }  
 }
 
-void handleCSS() {
+void handleCSS() { 
     File file = SPIFFS.open("/styles.css", "r");
     if (file) {
         server.streamFile(file, "text/css");
